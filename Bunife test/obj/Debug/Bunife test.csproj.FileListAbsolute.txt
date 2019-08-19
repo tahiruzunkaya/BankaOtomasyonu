@@ -1,0 +1,11 @@
+c:\users\birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\bin\Debug\Bunife test.exe.config
+c:\users\birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\bin\Debug\Bunife test.exe
+c:\users\birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\bin\Debug\Bunife test.pdb
+c:\users\birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\obj\Debug\Bunife test.csprojResolveAssemblyReference.cache
+c:\users\birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\obj\Debug\Bunife_test.Properties.Resources.resources
+c:\users\birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\obj\Debug\Bunife test.csproj.GenerateResource.Cache
+c:\users\birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\obj\Debug\Bunife test.exe
+c:\users\birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\obj\Debug\Bunife test.pdb
+C:\Users\Birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\obj\Debug\Bunife_test.frmYonetici.resources
+C:\Users\Birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\obj\Debug\Bunife_test.frmUye.resources

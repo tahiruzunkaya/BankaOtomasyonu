@@ -1,0 +1,74 @@
+C:\Users\Birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\bin\Debug\Bunife test.exe.config
+C:\Users\Birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\obj\Debug\Bunife test.exe
+C:\Users\Birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\obj\Debug\Bunife test.pdb
+C:\Users\Birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\bin\Debug\Bunife test.exe
+C:\Users\Birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\bin\Debug\Bunife test.pdb
+C:\Users\Birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\obj\Debug\Bunife_test.frmYonetici.resources
+C:\Users\Birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\obj\Debug\Bunife_test.frmUye.resources
+C:\Users\Birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\obj\Debug\Bunife_test.Properties.Resources.resources
+C:\Users\Birkan\documents\visual studio 2015\Projects\Bunife test\Bunife test\obj\Debug\BankaOtomasyonuForm.csproj.GenerateResource.Cache
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\bin\Debug\Bunife test.exe.config
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife test.exe
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife test.pdb
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\bin\Debug\Bunife test.exe
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\bin\Debug\Bunife test.pdb
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\obj\Debug\BankaOtomasyonuForm.csprojResolveAssemblyReference.cache
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmYonetici.resources
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmUye.resources
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.Properties.Resources.resources
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\obj\Debug\BankaOtomasyonuForm.csproj.GenerateResource.Cache
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.musteriEkle.resources
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.MusteriSil.resources
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.HesapEkle.resources
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.hesapSil.resources
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.gelirGiderRaporu.resources
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmMusteriGiris.resources
+C:\Users\Birkan\Documents\Visual Studio 2015\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmGiris.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\bin\Debug\Bunife test.exe.config
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife test.exe
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife test.pdb
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\bin\Debug\Bunife test.exe
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\bin\Debug\Bunife test.pdb
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\BankaOtomasyonuForm.csprojResolveAssemblyReference.cache
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmGiris.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmMusteriGiris.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmUye.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmYonetici.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.gelirGiderRaporu.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.hesapEkle.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.hesapSil.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.musteriEkle.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.musteriSil.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.Properties.Resources.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\BankaOtomasyonuForm.csproj.GenerateResource.Cache
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmYoneticiGiris.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmMusteri.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.havaleYap.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.paraCek.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.paraYatir.resources
+C:\Users\Tahir\Documents\Visual Studio 2013\Projects\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.uHesapOzeti.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\bin\Debug\Bunife test.exe.config
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife test.exe
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife test.pdb
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\bin\Debug\Bunife test.exe
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\bin\Debug\Bunife test.pdb
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\BankaOtomasyonuForm.csprojResolveAssemblyReference.cache
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmGiris.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmMusteri.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmMusteriGiris.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmUye.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmYonetici.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.frmYoneticiGiris.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.gelirGiderRaporu.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.havaleYap.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.hesapEkle.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.hesapSil.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.musteriEkle.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.musteriSil.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.paraCek.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.paraYatir.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.Properties.Resources.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\Bunife_test.uHesapOzeti.resources
+C:\Users\irem ünver\Desktop\281220171931\BankaOtomasyonu\Bunife test\obj\Debug\BankaOtomasyonuForm.csproj.GenerateResource.Cache
